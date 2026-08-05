@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "massa": "branca" ,
+        "recheio": "leitinho" ,
+        "cobertura": "confeitos"
+    },
+    {
+    "id": 2,
+        "massa": "branca" ,
+        "recheio": "morango" ,
+        "cobertura": "morango"
+    },
+    {
+        "id": 3,
+        "massa": "branca" ,
+        "recheio": "chocolate" ,
+        "cobertura": "confeitos"
+    },
+    {
+        "id": 4,
+        "massa": "preta" ,
+        "recheio": "chocolate" ,
+        "cobertura": "ovomaltine"
+    }
+]

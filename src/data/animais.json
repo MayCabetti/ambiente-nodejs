@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nome": "coelho",
+        "familia": "leporidae",
+        "perigoso": false
+    },
+    {
+        "id": 2,
+        "nome": "urso",
+        "familia": "ursidae",
+        "perigoso": true
+    },
+    {
+        "id": 3,
+        "nome": "gato",
+        "familia": "felidae",
+        "perigoso": false
+    },
+    {
+        "id": 4,
+        "nome": "tigre",
+        "familia": "felidae",
+        "perigoso": true
+    }
+]

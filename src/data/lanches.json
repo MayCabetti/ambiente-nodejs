@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1 ,
+        "nome": "x-burguer" ,
+        "proteína": "hamburguer de carne"  ,
+        "queijo": true ,
+        "molho": false ,
+        "bacon": false ,
+        "salada": false
+    },
+    {
+        "id": 2 ,
+        "nome": "x-salada" ,
+        "proteína": "hamburguer de carne" ,
+        "queijo": true ,
+        "molho": false ,
+        "bacon": false ,
+        "salada": true
+    },
+    {
+        "id": 3 ,
+        "nome": "x-bacon" ,
+        "proteína": "hamburguer de carne" ,
+        "queijo": true ,
+        "molho": true ,
+        "bacon": true ,
+        "salada": false
+    },
+    {
+        "id": 4 ,
+        "nome": "x-tudo" ,
+        "proteína": "hamburguer de carne" ,
+        "queijo": true ,
+        "molho": false ,
+        "bacon": false ,
+        "salada": false
+    }
+]
